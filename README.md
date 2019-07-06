@@ -1,4 +1,4 @@
-##Bernard Mugita Portfolio
+## Bernard Mugita Portfolio
 
 A portfolio by Bernard Mugita Created on 6th July 2019
 
