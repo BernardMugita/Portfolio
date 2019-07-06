@@ -10,6 +10,14 @@ header{
      background-attachment: fixed;
      background-position: center;
      height: 100vh;
+ }
+
+ .About{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../back.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 15vh;
 
  }
  ul{
@@ -44,6 +52,7 @@ ul li.active a{
 .main{
     max-width: 1200px;
     margin: auto;
+    
 }
 .Title{
     position: absolute;
@@ -56,4 +65,15 @@ ul li.active a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
 }
+.content{
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    font-family: fantasy;
+    font-size: 0.5cm;
+}
+.picture{
+    float: center;
+}    
 
