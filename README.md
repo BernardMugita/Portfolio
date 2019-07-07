@@ -1,6 +1,7 @@
 ## Bernard Mugita Portfolio
 
 A portfolio by Bernard Mugita Created on 6th July 2019
+https://BernardMugita.github.io/Portfolio/
 
 ---
 
@@ -18,7 +19,7 @@ This is a static website designed to display Bernard Mugita's Portfolio, alongsi
 ## Support and Contact details
 
 email: mugita68@gmail.com
-     : mugitabernard@yahoo.com
+email: mugitabernard@yahoo.com
 
 ---
 
